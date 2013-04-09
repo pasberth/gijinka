@@ -1,4 +1,6 @@
 * Haskellは天才過ぎて大学行ってる15歳
+* Coqさんはフランス生まれの留学生
+  * Haskell たんと友達
 * RubyはモテモテJK
 * Pythonは真面目委員長、風紀委員
 * LISPは部活
