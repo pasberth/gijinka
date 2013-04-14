@@ -36,3 +36,5 @@ Coq-proof-assisたん
 --------------------------------------------------------------------------------
 
 .. image:: coq-proof-assis-tan.png
+   :height: 960px
+   :width: 600 px
