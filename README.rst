@@ -45,4 +45,4 @@ Coq-proof-assisたん
 Coqたん
 --------------------------------------------------------------------------------
 
-.. image:: coq_tan_coq_tan.png
+.. image:: coq_tan_coq_tan.jpg
